@@ -30,9 +30,3 @@ document.getElementById('external-link-button').addEventListener('click', () => 
     window.location.href = 'https://marketspace11.itch.io/qr-scanner';
 
 });
-
-// Botón de enlace externo
-document.getElementById('external-link-button1').addEventListener('click', () => {
-    window.location.href = 'https://marketspace11.itch.io/qr-generator';
-
-});
